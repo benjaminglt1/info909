@@ -1,5 +1,5 @@
 
-gallet benjamin
+gallet benjamin  
 # INFO909 : Intégration continue - Déploiement continu
 
 ## A faire en amont du cours du 12 janvier
